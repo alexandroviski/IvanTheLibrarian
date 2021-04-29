@@ -6,5 +6,6 @@ Ivan is a software developed to a project that require a lot of data
 ** search on google API
 ** translate the search into 5 languages
 ** return a table with the results
+** return a json with the results
 
 image::imagesdir/image.png[]
