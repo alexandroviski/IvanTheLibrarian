@@ -7,4 +7,4 @@ Ivan is a software developed to a project that require a lot of data
 ** translate the search into 5 languages
 ** return a table with the results
 
-image::{imagesdir}/image.png[]
+image::imagesdir/image.png[]
